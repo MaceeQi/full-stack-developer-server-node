@@ -1,6 +1,6 @@
 export default [
     {
-        "_id": "123",
+        "_id": 123,
         "topic": "Space",
         "username": "SpaceX",
         "handle": "@spacex",
@@ -14,7 +14,7 @@ export default [
         "retuits": 432
     },
     {
-        "_id": "234",
+        "_id": 234,
         "topic": "Traffic",
         "username": "The Boring Company",
         "handle": "@boringcompany",
